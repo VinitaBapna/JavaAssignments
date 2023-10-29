@@ -2,7 +2,7 @@ package arithmetic;
 
 import java.util.Scanner;
 
-public class Table1 {
+public class ControlFlowTable {
 
 	public static void main(String[] args)
 	{
